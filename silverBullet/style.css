@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+}
+
+.container{
+    width: 800px;
+    height: auto;
+    background-color: lightblue;
+    margin: 50px auto auto auto;
+    display: grid;
+    grid-template-columns: auto auto;
+    border: solid 2px black;
+}
+.container > img{
+    height: 600px;
+}
+.myInteraction{
+
+}
+.title{
+    padding: 10px;
+}
