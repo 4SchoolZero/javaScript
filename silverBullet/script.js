@@ -8,7 +8,7 @@ let loc = [
     },
     {
         "title":"plaats 1",
-        "image":"img/1.jpg"
+        "image":"source/1.jpg"
     },
     {
         "title":"plaats 2",
