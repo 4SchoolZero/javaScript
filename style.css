@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+}
+.infoContainer{
+    background-color: aquamarine;
+    border: solid black 2px;
+    margin: 10px;
+}
+.infoContainer > a, p{
+    margin-left: 10px;
+    text-decoration: none;
+    font-size: 120%;
+}
+.infoContainer > a:hover{
+    font-size: 130%;
+    background-color: aqua;
+}
